@@ -1,0 +1,46 @@
+.navbar-brand
+{
+  color:#f1ee007a
+
+}
+.nav-link 
+{
+  color:#f1ee007a
+
+}
+#nav-bg {
+  background-color:#313840
+
+}
+#card-col{
+  background-color: #bfbebe
+}
+#title-col
+{
+  color: rgb(255, 255, 255);
+}
+#btn-align
+{
+  position: absolute;
+  bottom: 7px;
+  right: 10px;  
+}
+#bt-al
+{
+  padding: 10px 0px;
+}
+#text-c
+{
+  color:black
+}
+#source
+{
+  position:absolute;
+  text-align: left;
+  bottom: 10px;
+
+}
+#scroll
+{
+  Overflow:hidden
+}
